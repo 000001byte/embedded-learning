@@ -1,2 +1,2 @@
 # embedded-learning
-My learning notes and projects for 51 MCU, STM32.
+51和stm32单片机的学习过程
